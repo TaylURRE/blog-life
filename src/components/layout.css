@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Megrim&family=Roboto&display=swap');
+
+
+body {
+  margin: 0;
+
+}
+
+h1 {
+  font-family: 'Megrim', cursive;
+  font-weight: normal;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
